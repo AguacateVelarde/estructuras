@@ -15,8 +15,8 @@ Repositorio para el taller impartido por Leonardo Velarde. Estructura de datos e
   
 ## Estructura de las carpetas :+1:
 Los programas se estructuran siguiendo la metodología propuesta por Microsoft 
-Cada programa tiene un archivo header donde se declara la estructura o prototipado de la clase \s\s
->*clase_header.h* \s\s
+Cada programa tiene un archivo header donde se declara la estructura o prototipado de la clase\s\s
+>*clase_header.h*\s\s
 Un archivo class donde se definen métodos y algoritmos  
 >*clase_class.cpp*
 Un archivo Include donde se hacen llamadas a las librerias en el orden necesario
