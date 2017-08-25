@@ -13,7 +13,7 @@ Repositorio para el taller impartido por Leonardo Velarde. Estructura de datos e
     3. Árboles H
 4. Árboles AVL 
   
-## Estructura de las carpetas :+1:
+## Estructura de las carpetas :speak_no_evil:
 Los programas se estructuran siguiendo la metodología propuesta por Microsoft  
    
    
