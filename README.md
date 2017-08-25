@@ -1,4 +1,4 @@
-# Estrucutas de datos en C++ Orientado a Objetos
+# Estructuras de datos en C++ Orientado a Objetos
 Repositorio para el taller impartido por Leonardo Velarde. Estructura de datos en C++ Orientado a objetos
 
 ## Temario
